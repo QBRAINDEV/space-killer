@@ -1,0 +1,24 @@
+{
+  "name": "space-killer-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QBRAINDEV/space-killer.git"
+  },
+  "author": "diakok manuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QBRAINDEV/space-killer/issues"
+  },
+  "homepage": "https://github.com/QBRAINDEV/space-killer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "socket.io": "^4.1.3"
+  }
+}
